@@ -1,5 +1,9 @@
 # 🦆 DuckDB SQL Studio
 
+<p align="center">
+  <img src="assets/mascot.jpg" alt="DuckDB SQL Studio mascot — a duck that doesn't flinch at big files" width="260">
+</p>
+
 **A lightweight, local SQL workbench for large CSV, Parquet and Excel files — no server, no Excel freezes, no out-of-memory crashes.**
 
 DuckDB SQL Studio is a single-file [Streamlit](https://streamlit.io) app on top of [DuckDB](https://duckdb.org). Point it at a file (or a whole folder), write SQL, and get results, charts and exports in seconds — even for files with millions of rows on an ordinary laptop.
