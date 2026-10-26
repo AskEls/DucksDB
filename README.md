@@ -8,7 +8,7 @@
 
 DuckDB SQL Studio is a single-file [Streamlit](https://streamlit.io) app on top of [DuckDB](https://duckdb.org). Point it at a file (or a whole folder), write SQL, and get results, charts and exports in seconds — even for files with millions of rows on an ordinary laptop.
 
-It also includes a **signaling trace viewer** for ZTE LTE UE trace files (`.udt` / `.stm`), decoding RRC, S1AP, X2AP and NAS messages with the official 3GPP ASN.1 definitions.
+It also includes a **signaling trace viewer** for Z** LTE UE trace files (`.udt` / `.stm`), decoding RRC, S1AP, X2AP and NAS messages with the official 3GPP ASN.1 definitions.
 
 > The user interface is in Bahasa Indonesia; this README explains the labels where needed.
 
