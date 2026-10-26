@@ -1,0 +1,7 @@
+.trace_cache/
+*.udt
+*.stm
+*.csv
+*.parquet
+*.duckdb
+.claude/
